@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="code_name" type="id" />
+    <item name="code_version" type="id" />
+    <item name="recyclerview_linear" type="id" />
+    <item name="Img1" type="id" />
+    <item name="custom_listmm" type="id" />
+    <item name="custom_list" type="id" />
+</resources>

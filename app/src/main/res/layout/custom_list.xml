@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:layout_marginTop="15dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="3dp"
+        android:layout_marginTop="20dp"
+        app:cardCornerRadius="46dp"
+        app:contentPadding="0dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/Img1"
+            android:layout_width="56dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/helpline5"
+            android:contentDescription="@string/todo" />
+
+        <TextView
+            android:id="@+id/code_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/recording1"
+            android:layout_marginStart="100dp"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/code_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/numberkkk"
+            android:layout_marginStart="100dp"
+            android:textColor="#9C9494"
+            android:textSize="18sp" />
+
+</RelativeLayout>
+</androidx.cardview.widget.CardView>
+</RelativeLayout>

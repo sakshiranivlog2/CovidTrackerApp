@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Stateapi2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ansFirstText">
+        COVID-19 is an infectious disease caused by a newly discovered coronavirus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+        The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.
+    You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.
+    </string>
+    <string name="queSec">What is corona virus</string>
+    <string name="ansSec">
+        The virus that causes a respiratory disease called coronavirus disease 19 (COVID-19). SARS-CoV-2 is a member of a large family of viruses called coronaviruses. These viruses can infect people and some animals. SARS-CoV-2 was first known to infect people in 2019. The virus is thought to spread from person to person through droplets released when an infected person coughs, sneezes, or talks.
+    </string>
+    <string name="gg">close</string>
+    <string name="pie">pie</string>
+    <string name="_9_0">9.0</string>
+    <string name="recording1">Recording1</string>
+    <string name="vhvjhbkj">vhvjhbkj</string>
+    <string name="open">Open navigation</string>
+    <string name="close">Close navigation</string>
+    <string name="todo">TODO</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="drCough">Dry Cough</string>
+    <string name="fever_tiredness">Fever, Tiredness</string>
+    <string name="aches_and_pains">Aches and Pains</string>
+    <string name="runny_nose">Runny Nose</string>
+    <string name="sore_throat_or_diarrhea">Sore throat or diarrhea</string>
+    <string name="state_name">State Name</string>
+    <string name="click_me">click me</string>
+    <string name="india">India</string>
+    <string name="all_country">All Country</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="hii28">hii2</string>
+    <string name="subtitle">Affected Countries</string>
+    <string name="_0">0</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="todonnn">todo</string>
+    <string name="numberkkk">number</string>
+
+
+</resources>
